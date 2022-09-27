@@ -1,0 +1,41 @@
+body{
+    width: auto;
+    background-color: rgb(98, 228, 245);
+ }
+ header{
+     padding: 10px 10px 50px 10px;
+     background-color: rgb(22, 14, 14);
+ }
+ nav{
+    
+ nav-right: auto;
+ }
+ .myNav{
+     text-align: right;
+    margin-top: -20px;
+ }
+ .icon{
+   margin: 50px;
+    
+ }
+ .icon img{
+    margin-top: 50px;
+ }
+ .myNav a{
+     margin-right: 50px;
+    padding-top: 10px;
+     padding-left: 10px;
+     padding-right: 10px;
+     padding-bottom: 10px;
+     background-color: rgb(12 223 194);
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+ }
+ .myNav a{
+     margin-top: -8px; 
+ 
+ }
+ .myNav a:hover{
+ background-color: blue;
+ }
