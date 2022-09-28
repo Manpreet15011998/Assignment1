@@ -91,3 +91,28 @@ body{
 .div3 h2{
     text-align: center;
 }
+.div4 h2{
+    text-align: center;
+    
+}
+.sec3{
+    background-color: rgb(15, 218, 140);
+
+}
+.div5 button{
+    text-align: center;
+  padding: 20px;
+  margin-left:2.5%;
+  margin-top: 2%;
+  background-color: rgb(54, 154, 179);
+  width:30%;
+}
+.div6 button{
+  text-align: center;
+  padding: 20px;
+  margin-left: 35.3%;
+  margin-top: 2%;
+  width:30%;
+  
+  background-color: rgb(54, 154, 179);
+}
