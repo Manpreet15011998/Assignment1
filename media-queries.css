@@ -1,0 +1,24 @@
+@media (min-width: 300px) and (max-Width: 640px) {
+    /*for testing*/
+    .div1 h1{
+     color: red;
+    } 
+    .icon img{
+        margin-left: -10px;
+     }
+ .myNav a{
+    margin-right: 5px;
+ }
+ .div9 img{
+    float:right;
+    border-radius: 50%;
+   
+    width: 175px;
+    height: 175px;
+    margin-top: 50px; 
+}
+.div8 a{
+    width:13px;
+}
+    
+ }
