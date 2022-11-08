@@ -99,6 +99,9 @@ body{
 .div3 a{
     padding-left: 47.5%;
 }
+.div3 a:hover{
+    color:#043c57;
+}
 .div3 h2{
     text-align: center;
    color:rgb(255, 255, 255);
