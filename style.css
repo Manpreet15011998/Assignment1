@@ -79,7 +79,9 @@ body{
     
 }
 .div1 button:hover{
-    background-color:  rgb(15, 218, 140);
+    box-shadow: 2px 2px 5px #000000;
+    background-color: #29D9A4;
+    color:#A51E1E;
 }
 .sec2{
     height: 200px;
