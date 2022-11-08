@@ -188,6 +188,8 @@ footer .div8{
 }
 .fa:hover {
    font-size: large;
+   width:25px;
+   height:25px;
 }
 
 .fa-facebook {
